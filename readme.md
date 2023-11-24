@@ -5,7 +5,7 @@ Este es un ejercicio que utiliza la API de Chuck Norris para obtener chistes y p
 
 ## Funcionalidades
 
-Tenemos un botón `obtener chiste` en el que al clickar traeremos un chiste de chuck norris. Eso lo guardaremos en un listado de chistes en el DOM y se guardará en el LocalStorage. Si recargamos la página se tienen que mantener los últimos chistes traidos (guardados en el LocalStorage). y podremos traer más y se seguirán añadiendo. 
+1. Tenemos un botón `obtener chiste` en el que al clickar traeremos un chiste de chuck norris. Eso lo guardaremos en un listado de chistes en el DOM y se guardará en el LocalStorage. Si recargamos la página se tienen que mantener los últimos chistes traidos (guardados en el LocalStorage). y podremos traer más y se seguirán añadiendo. 
 
 Si da tiempo podremos también hacer un botón que borre todos los items, o también un botón por cada item y se elimine individualmente. Todo esto deberá desaparecer del DOM y del LocalStorage
 
